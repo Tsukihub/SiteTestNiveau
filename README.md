@@ -36,12 +36,11 @@ Mode de navigation
 Les menus :
 L’accès aux rubriques du site s’effectue gràce à la présence de menus.
 Plusieurs options sont possibles :
-- Menu horizontaux, situé en haut de page. En bas de page, il est généralement réservé aux
 rubriques « mentions légales » et « crédits ».
 Ces menus sont présent sur toutes les pages du site.
 
 Le contenu :
-Chaque Témoignage/article est constitué d’un texte introductif permettant une ba-
+Chaque Témoignage est constitué d’un texte introductif permettant une ba-
 layage rapide de l’information présentée. Lorsque l’on clique sur le titre
 (ou en savoir plus) on affiche l’article complet.
 
@@ -65,6 +64,14 @@ Charte graphique
 couleurs
 https://color.adobe.com/Whatsapp-color-theme-9522358/
 Flat design
+
+Globale : sur toute la largeur html en haut bandeau de citation en dessous menu horizontal, tout en bas footer horitontal sur tte la largeur avec copyrights lien vers mention légales
+
+Accueil: ecrans moyens larges : lois récentes gauche, actu droite 25% espace; ecrans petits idem en colonnes
+Mention légales : texte en colonnes grands titres en Bold 
+Contact: Formulaire dans section centrée dispoistion colonne fielset l'entoure
+Suicide assisté cf Mentions légales 
+Témoignages : en colonne chaque témoignage dans un cadre accroche affichée puis bouton lire la suite qui déroulera aussi les commentaires
 
 
 
