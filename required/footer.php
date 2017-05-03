@@ -5,5 +5,9 @@
 			<li class="col-md-4 no-border">AMA</li>
 		</ul>	
 	</nav>
+<script src="script/script.js" type="text/javascript" charset="utf-8" async defer></script>
+
+
+
 </body>
 </html>

@@ -1,5 +1,10 @@
 html {
   background-color: #FCFCFC; }
+  html body a {
+    color: #035941; }
+  html body a:hover {
+    text-decoration: none;
+    color: grey; }
   html body article {
     background-color: #D9D5C1;
     color: grey;
@@ -21,3 +26,9 @@ html {
       html body nav ul li a:hover {
         text-decoration: none;
         color: #035941; }
+
+.cache {
+  display: none; }
+
+.boutontoogle {
+  background-color: #FCFCFC; }
