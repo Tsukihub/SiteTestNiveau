@@ -1,0 +1,23 @@
+html {
+  background-color: #FCFCFC; }
+  html body article {
+    background-color: #D9D5C1;
+    color: grey;
+    margin-bottom: 7px; }
+  html body blockquote {
+    border-left: 5px solid #E2EDC2;
+    text-align: center; }
+  html body nav ul {
+    list-style: none;
+    line-height: 50px;
+    background-color: #E2EDC2; }
+    html body nav ul .no-border {
+      border: none;
+      color: grey; }
+    html body nav ul li {
+      border-right: 1px solid #FCFCFC; }
+      html body nav ul li a {
+        color: grey; }
+      html body nav ul li a:hover {
+        text-decoration: none;
+        color: #035941; }
