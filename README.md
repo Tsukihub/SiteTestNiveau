@@ -5,12 +5,12 @@ Commandé par l’AMA(Association la Mort Autorisée)
 
 Désignation des responsables du projet
 Chef de projet :
-Eccher aude
+E. aude
 Tél : 06 65 65 65 65
 Correspondant :
-Nom : Eccher aude
+Nom : E. aude
 Signataire du présent cahier des charges
-Nom : Eccher
+Nom : E.
 
 Containtes
 La réalisation de ce cahier est contrainte par les exigences suivantes :
